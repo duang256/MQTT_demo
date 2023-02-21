@@ -1,0 +1,9 @@
+# Mqtt配置
+mqtt:
+  serverURIs: tcp://127.0.0.1:1883
+  username: admin
+  password: yanyue123
+  qos: 1
+  client:
+    id: 自定义
+  topic: topic_default
